@@ -1,0 +1,28 @@
+SMAP
+update_005fproduct_jsp.java
+JSP
+*S JSP
+*F
++ 0 update_product.jsp
+update_product.jsp
++ 1 show_product.jsp
+show_product.jsp
+*L
+1,31:72
+1#1,14:103
+14:164,9
+19,3:119
+21:186,17
+22,2:203
+23,11:124
+33:232,11
+34,2:243
+35:282,5
+35,2:247
+36:300,5
+36,2:251
+37:318,5
+37,3:255
+39,7:137
+31#0,4:143
+*E
